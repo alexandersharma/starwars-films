@@ -2,6 +2,8 @@
 Single Page Application using React/Redux that allows users to search Star Wars film(s) by the film title
 or character names and view details of the film.
 
+![](/demo/starwars-demo.gif)
+
 **Note:** Node v6+ is required for this project.
 
 I recommend using [yarn](https://code.facebook.com/posts/1840075619545360) to manage dependencies. To begin using yarn, install globally with `npm install -g yarn`.
